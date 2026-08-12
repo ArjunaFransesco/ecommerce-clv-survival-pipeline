@@ -1,0 +1,14 @@
+{
+  "CLV_Regression": {
+    "R2_Score": 0.9411,
+    "RMSE": 964.52,
+    "MAE": 389.76
+  },
+  "Churn_Survival_Risk": {
+    "ROC_AUC": 0.9132,
+    "F1_Score": 0.6387
+  },
+  "Dataset_Samples": 4500,
+  "VIP_Customer_Count": 562,
+  "At_Risk_Customer_Count": 1112
+}
